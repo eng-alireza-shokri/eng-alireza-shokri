@@ -1,6 +1,6 @@
 # Alireza Shokri
 
-WordPress Developer & Web Designer focused on building, optimizing, and maintaining corporate and e-commerce websites.
+WordPress & WooCommerce Developer | Web Designer focused on building, optimizing, and maintaining corporate and e-commerce websites.
 
 ## What I Work On
 
@@ -22,7 +22,7 @@ I keep client work on GitHub as **case studies rather than source-code repositor
 ## Selected Projects
 
 - [Velza Gallery](https://github.com/eng-alireza-shokri/velza-gallery) — Persian RTL jewelry retail website with dark-and-gold design, featured product grids, and collection-focused sections
-- [Qazvin Traditional Sweets](https://github.com/eng-alireza-shokri/portfolio-archive/blob/main/qazvin-sweets.md) — custom e-commerce platform for a Persian sweets brand
+- [Qazvin Traditional Sweets](https://github.com/eng-alireza-shokri/portfolio-archive/blob/main/qazvin-sweets.md) — custom e-commerce platform for a Persian sweets brand using AI-assisted development
 - [Madiya Store](https://github.com/eng-alireza-shokri/portfolio-archive/blob/main/madiya-store.md) — luxury Persian RTL e-commerce website using AI-assisted custom development with HTML, CSS, JavaScript, PHP, MySQL, advanced product filtering, customer accounts, order tracking, and an administration panel
 - [Sogand Shoes](https://github.com/eng-alireza-shokri/sogand-shoes) — shoe e-commerce website using AI-assisted custom development with HTML, CSS, JavaScript, PHP, and MySQL
 - [Baharland](https://github.com/eng-alireza-shokri/baharland) — e-commerce website using AI-assisted custom development, responsive design, and online ordering
