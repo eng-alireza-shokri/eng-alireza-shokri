@@ -21,7 +21,7 @@ I keep client work on GitHub as **case studies rather than source-code repositor
 
 ## Selected Projects
 
-- [Velza Gallery](https://github.com/eng-alireza-shokri/portfolio-archive/blob/main/velza-gallery.md) — jewelry retail website project (implementation details pending live-site review)
+- [Velza Gallery](https://github.com/eng-alireza-shokri/portfolio-archive/blob/main/velza-gallery.md) — Persian RTL jewelry retail website with dark-and-gold design, featured product grids, and collection-focused sections
 - [Qazvin Traditional Sweets](https://github.com/eng-alireza-shokri/portfolio-archive/blob/main/qazvin-sweets.md) — custom e-commerce platform for a Persian sweets brand
 - [Madiya Store](https://github.com/eng-alireza-shokri/portfolio-archive/blob/main/madiya-store.md) — luxury Persian RTL e-commerce website using AI-assisted custom development with HTML, CSS, JavaScript, PHP, MySQL, advanced product filtering, customer accounts, order tracking, and an administration panel
 - [Sogand Shoes](https://github.com/eng-alireza-shokri/sogand-shoes) — shoe e-commerce website using AI-assisted custom development with HTML, CSS, JavaScript, PHP, and MySQL
